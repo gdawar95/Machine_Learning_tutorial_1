@@ -3,10 +3,11 @@
  
 The topics that will be covered in this lab include:
 
-Introduction to scikit-learn and NumPy
-Data preparation and cleaning with Pandas
-Exploratory data analysis (EDA)
-Nearest neighbors classification algorithm
+1. Introduction to scikit-learn and NumPy
+2. Data preparation and cleaning with Pandas
+3. Exploratory data analysis (EDA)
+4. Nearest neighbors classification algorithm
+
 Note: Some other useful Python libraries include matplotlib (for plotting/graphing) and Pandas (for data analysis), though we won't be going into detail on these in this bootcamp.
 
 Jupyter Notebooks
