@@ -12,3 +12,5 @@ Note: Some other useful Python libraries include matplotlib (for plotting/graphi
 
 Jupyter Notebooks
 This lab will be using Jupyter Notebooks as a Python development environment. Hopefully you're somewhat familiar with them. Write your code in cells (this is a cell!) and execute your code by pressing the play button (up top) or by entering ctrl+enter. To format a cell for text, you can select "Markdown" from the dropdown - the default formatting is "Code", which will usually be what you want.
+
+ALL THE REMAINING INSTRUCTIONS ARE IN THE PYTHON NOTEBOOK
